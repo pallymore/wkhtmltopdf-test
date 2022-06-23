@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/rposborne/wkhtmltopdf-heroku.git
+  revision: fc1edf0458ce3a8ec19c5f8823e634782aa9b11e
+  branch: 2.12.6.0-jammy
+  specs:
+    wkhtmltopdf-heroku (2.12.6.0.pre.jammy)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -230,6 +237,7 @@ DEPENDENCIES
   web-console
   webdrivers
   wicked_pdf
+  wkhtmltopdf-heroku!
 
 RUBY VERSION
    ruby 3.1.2p20

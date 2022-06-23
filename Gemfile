@@ -26,6 +26,8 @@ gem "jbuilder"
 
 gem 'wicked_pdf'
 
+gem 'wkhtmltopdf-heroku',  git: 'https://github.com/rposborne/wkhtmltopdf-heroku.git', branch: '2.12.6.0-jammy'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
