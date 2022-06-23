@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rposborne/wkhtmltopdf-heroku.git
-  revision: 3018c2a08ab194fae6826df2dc2f4de4776b8377
+  revision: b964a8c262c9d5a865037b0d0b09639669ebfac4
   branch: 2.12.6.0-jammy
   specs:
     wkhtmltopdf-heroku (2.12.6.0.pre.jammy)
