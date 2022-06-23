@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rposborne/wkhtmltopdf-heroku.git
-  revision: fc1edf0458ce3a8ec19c5f8823e634782aa9b11e
+  revision: 3018c2a08ab194fae6826df2dc2f4de4776b8377
   branch: 2.12.6.0-jammy
   specs:
     wkhtmltopdf-heroku (2.12.6.0.pre.jammy)
@@ -178,7 +178,7 @@ GEM
       io-console (~> 0.5)
     rexml (3.2.5)
     rubyzip (2.3.2)
-    selenium-webdriver (4.2.1)
+    selenium-webdriver (4.3.0)
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
