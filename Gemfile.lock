@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/rposborne/wkhtmltopdf-heroku.git
-  revision: a8269b288c7a224121f8b3918b9b3c1f475b8fa5
+  revision: fd3f4938d123a2be9d59bc7aeefec627b6526b56
   branch: 2.12.6.1-jammy
   specs:
-    wkhtmltopdf-heroku (2.12.6.0.pre.jammy)
+    wkhtmltopdf-heroku (2.12.6.1.pre.jammy)
 
 GEM
   remote: https://rubygems.org/
@@ -144,7 +144,7 @@ GEM
       nio4r (~> 2.0)
     racc (1.6.0)
     rack (2.2.3.1)
-    rack-test (2.0.0)
+    rack-test (2.0.2)
       rack (>= 1.3)
     rails (7.0.3)
       actioncable (= 7.0.3)
@@ -183,7 +183,7 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-    sprockets (4.1.0)
+    sprockets (4.1.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.4.2)
